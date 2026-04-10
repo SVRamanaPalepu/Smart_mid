@@ -194,3 +194,7 @@ body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--t
   .features-grid { grid-template-columns: 1fr; }
   .landing-btns { flex-direction: column; }
 }
+
+.pagenot{
+  color: grey;
+}
